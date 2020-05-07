@@ -4,7 +4,7 @@
 #
 Name     : msal-extensions
 Version  : 0.2.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/c5/af/8f05a701fecb570327fd2ba580120671722a099a464af180ccb20f1305f2/msal-extensions-0.2.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c5/af/8f05a701fecb570327fd2ba580120671722a099a464af180ccb20f1305f2/msal-extensions-0.2.2.tar.gz
 Summary  : UNKNOWN
